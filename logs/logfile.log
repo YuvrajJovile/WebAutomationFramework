@@ -1,0 +1,54 @@
+10/19/2022 08:30:47 PM :INFO : test_sample_baseTest_regression :*************** Test_001 *****************
+10/19/2022 08:30:47 PM :INFO : test_sample_baseTest_regression :****Started  Sample test ****
+10/19/2022 08:30:47 PM :INFO : test_sample_baseTest_regression :****Opening URL****
+10/19/2022 08:30:52 PM :INFO : test_sample_baseTest_sanity :*************** Test_002 *****************
+10/19/2022 08:30:52 PM :INFO : test_sample_baseTest_sanity :****Started  Sample test ****
+10/19/2022 08:30:54 PM :INFO : test_sample_baseTest_sanity :****Opening URL****
+2022-10-19 20:31:46,902 :INFO : test_sample_baseTest_regression :*************** Test_001 *****************
+2022-10-19 20:31:46,903 :INFO : test_sample_baseTest_regression :****Started  Sample test ****
+2022-10-19 20:31:46,903 :INFO : test_sample_baseTest_regression :****Opening URL****
+2022-10-19 20:31:52,684 :INFO : test_sample_baseTest_sanity :*************** Test_002 *****************
+2022-10-19 20:31:52,684 :INFO : test_sample_baseTest_sanity :****Started  Sample test ****
+2022-10-19 20:31:53,591 :INFO : test_sample_baseTest_sanity :****Opening URL****
+10/19/2022 08:32:59 PM :INFO : test_sample_baseTest_regression :*************** Test_001 *****************
+10/19/2022 08:32:59 PM :INFO : test_sample_baseTest_regression :****Started  Sample test ****
+10/19/2022 08:32:59 PM :INFO : test_sample_baseTest_regression :****Opening URL****
+10/19/2022 08:33:05 PM :INFO : test_sample_baseTest_sanity :*************** Test_002 *****************
+10/19/2022 08:33:05 PM :INFO : test_sample_baseTest_sanity :****Started  Sample test ****
+10/19/2022 08:33:06 PM :INFO : test_sample_baseTest_sanity :****Opening URL****
+10/20/2022 03:30:06 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:30:06 AM :INFO : test_sample_baseTest_regression :*************** Test_001 *****************
+10/20/2022 03:30:06 AM :INFO : test_sample_baseTest_regression :****Started  Sample test ****
+10/20/2022 03:30:06 AM :INFO : test_sample_baseTest_regression :****Opening URL****
+10/20/2022 03:30:14 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:30:14 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:30:14 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:30:14 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:30:14 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:31:44 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:31:44 AM :INFO : test_sample_baseTest_regression :*************** Test_001 *****************
+10/20/2022 03:31:44 AM :INFO : test_sample_baseTest_regression :****Started  Sample test ****
+10/20/2022 03:31:44 AM :INFO : test_sample_baseTest_regression :****Opening URL****
+10/20/2022 03:31:50 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:31:50 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:31:50 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:31:50 AM :INFO : pytest_runtest_makereport :report==end
+10/20/2022 03:31:50 AM :INFO : pytest_runtest_makereport :report==end
+10/21/2022 04:37:46 PM :INFO : pytest_runtest_makereport :report==end
+10/21/2022 04:37:46 PM :INFO : test_sample_baseTest_regression :*************** Test_001 *****************
+10/21/2022 04:37:46 PM :INFO : test_sample_baseTest_regression :****Started  Sample test ****
+10/21/2022 04:37:46 PM :INFO : test_sample_baseTest_regression :****Opening URL****
+10/21/2022 04:37:59 PM :INFO : pytest_runtest_makereport :report==end
+10/21/2022 04:37:59 PM :INFO : pytest_runtest_makereport :report==end
+10/21/2022 04:37:59 PM :INFO : pytest_runtest_makereport :report==end
+10/21/2022 04:37:59 PM :INFO : pytest_runtest_makereport :report==end
+10/21/2022 04:37:59 PM :INFO : pytest_runtest_makereport :report==end
+10/21/2022 04:38:40 PM :INFO : test_sample_baseTest_regression :*************** Test_001 *****************
+10/21/2022 04:38:40 PM :INFO : test_sample_baseTest_regression :****Started  Sample test ****
+10/21/2022 04:38:40 PM :INFO : test_sample_baseTest_regression :****Opening URL****
+10/23/2022 05:26:30 PM :INFO : test_sample_baseTest_regression :*************** Test_001 *****************
+10/23/2022 05:26:30 PM :INFO : test_sample_baseTest_regression :****Started  Sample test ****
+10/23/2022 05:26:30 PM :INFO : test_sample_baseTest_regression :****Opening URL****
+10/23/2022 05:27:00 PM :INFO : test_sample_baseTest_sanity :*************** Test_002 *****************
+10/23/2022 05:27:00 PM :INFO : test_sample_baseTest_sanity :****Started  Sample test ****
+10/23/2022 05:27:03 PM :INFO : test_sample_baseTest_sanity :****Opening URL****
